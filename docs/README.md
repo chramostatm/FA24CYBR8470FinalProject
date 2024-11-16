@@ -19,7 +19,7 @@
 
 # Diagrams
 ## Mockup
-![]()
+![Rough Mockup](./RoughMockup.jpg)
 ## C4 Architecture
 ### Context
 ![]()
