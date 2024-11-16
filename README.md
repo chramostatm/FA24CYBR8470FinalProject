@@ -1,11 +1,8 @@
-# Hello World
- This is the begining of Final Project work for CYBR 8470
-
- # temp name
- "insert description"
+# A Collection Showcase app
+This is a prototype application, meant for Collector's to catalog and showcase their Collections. The initial model will be for Movie collections, with expandability to come.
 
 ## Installation
-to be determined
+to be determined check back soon!
 <!-- ```bash
 docker-build .
 docker-compose run django bash
@@ -14,8 +11,7 @@ python manage.py createsuperuser
 ```
  -->
 ## Getting Started
-to be determined
-
+to be determined check back soon!
 <!--
 To run my awesome app simply,
 ```bash
@@ -26,3 +22,4 @@ See in-app menus for help with using specific features.
   -->
 
 # License
+This is licensed under the MIT License, see the LICENSE file for more details.
