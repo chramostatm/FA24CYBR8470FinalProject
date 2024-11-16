@@ -3,7 +3,7 @@ from .models import Movie
 
 class MovieSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Dog
+        model = Movie
         fields = ['id', 'name', 'year', 'director', 'mediaFormat'
                   #owner
                   ]

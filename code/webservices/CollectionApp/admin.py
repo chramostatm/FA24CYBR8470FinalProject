@@ -3,7 +3,7 @@ from .models import Movie
 # Register your models here.
 
 
-class MoveAdmin(admin.ModelAdmin):
+class MovieAdmin(admin.ModelAdmin):
     # Define the list of fields to display in the admin interface
     list_display = ('name', 'year', 'director', 'mediaFormat'
                     #owner
@@ -25,4 +25,4 @@ class MoveAdmin(admin.ModelAdmin):
             )
 
 # Register the model and admin class
-admin.site.register(Dog, DogAdmin)
+admin.site.register(Movie, MovieAdmin)
