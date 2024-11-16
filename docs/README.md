@@ -14,7 +14,7 @@
 <!-- In addition to the user stories identify the ways in which users might be able to mis-use your app. Mis-user stories are just like user stories except the user, goal, and rationale are malicious. -->
 - As a **rival collector**, I want to **impersonate another collector** so I can **modify and/or delete items in said collector's collection.**
     - Mitigation Criteria: ensure proper authentication is in place.
-- As a **clumsy collector**, I accidentally remove **an item** while I **look at my collection.**
+- As a **clumsy collector**, I want to remove **an item** so I can **be clumsy.**
     - Mitigation Criteria: add a verification prompt to ensure they want to remove an item from their collection.
 
 # Diagrams
