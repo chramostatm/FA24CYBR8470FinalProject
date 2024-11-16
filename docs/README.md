@@ -22,10 +22,12 @@
 ![Rough Mockup](./RoughMockup.jpg)
 ## C4 Architecture
 ### Context
-![]()
+![](./ContextCollectionShowcaseApp.png)
 ### Container
-![]()
-### Component
-![]()
+![](./ContainerCollectionShowcaseApp.png)
+### Components
+![](./ComponentAdminPortal.png)
+![](./ComponentUserPortal.png)
+![](./ComponentDatabases.png)
 
 [To Home](../README.md)
