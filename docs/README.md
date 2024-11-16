@@ -1,4 +1,4 @@
-# Collector
+# Further Documentation
 ## User Stories
 <!-- As a **user/role**, I want to **goal** so I can **rationale** -->
 - As a **collector**, I want to **catalog my collection** so I can **lookup items in said collection.**
@@ -27,3 +27,5 @@
 ![]()
 ### Component
 ![]()
+
+[To Home](../README.md)

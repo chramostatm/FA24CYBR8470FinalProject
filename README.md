@@ -1,5 +1,5 @@
 # A Collection Showcase app
-This is a prototype application, meant for Collector's to catalog and showcase their Collections. The initial model will be for Movie collections, with expandability to come.
+This is a prototype application, meant for Collector's to catalog and showcase their Collections. The initial model will be for Movie collections, with expandability to come. [Further Documentation](./docs/README.md)
 
 ## Installation
 to be determined check back soon!
