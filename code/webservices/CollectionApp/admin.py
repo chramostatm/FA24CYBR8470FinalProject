@@ -10,9 +10,7 @@ class MovieAdmin(admin.ModelAdmin):
                     )
     
     # Add search functionality
-    search_fields = ('name', 'year', 'director', 'mediaFormat'
-                    #owner
-                    )
+    search_fields = ('name', 'year', 'director', 'mediaFormat','owner')
     # Add filters
     list_filter = ('year', 'director', 'mediaFormat')
 
@@ -20,9 +18,7 @@ class MovieAdmin(admin.ModelAdmin):
     list_display_links = ('name',)
 
     # Define how fields are displayed when editing a Dog instance
-    fields = ('name', 'year', 'director', 'mediaFormat'
-                    #owner
-            )
+    fields = ('name', 'year', 'director', 'mediaFormat','owner')
 
 # Register the model and admin class
 admin.site.register(Movie, MovieAdmin)
