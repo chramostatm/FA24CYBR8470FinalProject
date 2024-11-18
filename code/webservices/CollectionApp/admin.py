@@ -14,7 +14,7 @@ class MovieAdmin(admin.ModelAdmin):
                     #owner
                     )
     # Add filters
-    list_filter = ('age', 'breed')
+    list_filter = ('year', 'director', 'mediaFormat')
 
     # Define which fields can be clicked to view the details page
     list_display_links = ('name',)
