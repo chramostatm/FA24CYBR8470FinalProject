@@ -3,3 +3,6 @@ https://www.reddit.com/r/dvdcollection/comments/wmbop6/best_site_to_find_dvd_val
 
 Letterboxd API
 https://api-docs.letterboxd.com/#overview
+
+TMDB
+https://developer.themoviedb.org/docs/getting-started
